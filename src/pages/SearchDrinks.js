@@ -1,4 +1,4 @@
 const SearchDrinks = () => {
-  return <p>search</p>;
+  return <div>Search</div>;
 };
 export default SearchDrinks;

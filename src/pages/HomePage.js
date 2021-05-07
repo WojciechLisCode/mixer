@@ -3,6 +3,7 @@ const HomePage = () => {
   return (
     <div>
       <h1>Mixer</h1>
+      <p>Drinks database</p>
       <div>
         <Link to="/DrinkDetails">
           <button>Get random drink</button>
